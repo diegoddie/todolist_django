@@ -1,16 +1,14 @@
 # **To Do List with Django**
-## What better way to learn Django's Class Based Views than through a practical project?
-
+**What better way to learn Django's Class Based Views than through a practical project?**
 #### This is a simple web application for managing a to-do list, developed with Django, using only CBVs.
-![](home.png)
 ---
-_Requirements_
+_Requirements_ <br>
 To use this application, you need to have the following installed:
 
 - Python 3.6 or higher
 - Django 2.1 or higher
 
-_Installation_
+_Installation_ <br>
 To install this application, follow these steps:
 
 1. Clone the repository on your machine:
@@ -43,7 +41,7 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
-_Usage_
+_Usage_<br>
 To start the application, run the following command:
 
 ```python
