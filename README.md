@@ -1,6 +1,7 @@
 # **To Do List with Django**
-What better way to learn Django's Class Based Views than through a practical project?
-This is a simple web application for managing a to-do list, developed with Django, using only CBVs.
+## What better way to learn Django's Class Based Views than through a practical project?
+
+#### This is a simple web application for managing a to-do list, developed with Django, using only CBVs.
 ![](home.png)
 ---
 _Requirements_
