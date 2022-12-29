@@ -1,7 +1,14 @@
 # **To Do List with Django**
 **What better way to learn Django's Class Based Views than through a practical project?**
-#### This is a simple web application for managing a to-do list, developed with Django, using only CBVs.
-![Getting Started](./home.png)
+#### This is a simple web application for managing a to-do list, developed with Django, using only CBVs.<br>
+The features implemented are:
+- a user registration/login system;
+![Getting Started](images/login.png)
+- A homepage where the user can view the list of tasks to be done and those already completed;
+![Getting Started](images/home.png)
+- add new tasks, update or delete them.
+![Getting Started](images/new_task.png)
+![Getting Started](images/delete.png)
 ---
 _Requirements_ <br>
 To use this application, you need to have the following installed:
